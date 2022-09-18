@@ -14,4 +14,11 @@
 /out
 
 #Environment Variables
-#.env
+.env
+
+#Anvil binary
+anvil
+
+#Pycache and pyc files
+__pycache__/
+*.pyc
