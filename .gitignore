@@ -1,0 +1,17 @@
+#Finder files
+.DS_Store
+
+#Virtual env files
+/pctf-env
+
+#Broadcast log files
+/broadcast
+
+#Solidity cache files
+/cache
+
+#Foundry out files
+/out
+
+#Environment Variables
+#.env
