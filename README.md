@@ -20,8 +20,8 @@ Huge shoutout to all of the folks who contributed to Paradigm CTF 2022 in some w
 ## Installation
 1. Install the latest version of [Foundry](https://book.getfoundry.sh/getting-started/installation)
 2. Upgrade to the latest version of pip `pip install --upgrade pip`
-3. Clone the repository `git clone`
-4. Run the installation script to create virtualenv and install requirements to it `cd perennial-paradigm && ./install.sh`
+3. Clone the repository `git clone https://github.com/securerodd/perennial-paradigm-ctf.git`
+4. Run the installation script to create virtualenv and install requirements to it `cd perennial-paradigm-ctf && ./install.sh`
 
 ## How To Play EVM Challenges
 
